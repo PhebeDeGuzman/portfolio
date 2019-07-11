@@ -593,7 +593,7 @@ nav {
     background: url(images/yellowtail/WINE_mobile1.gif) center top fixed no-repeat;
     height: 100vh;
     width: auto;
-    background-size: cover;
+    background-size: contain;
 }
     
 #clientYT h1    {
