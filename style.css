@@ -456,7 +456,7 @@ h2  {
     }
     
  #clientYT  {
-    background: url(images/yellowtail/WINE_mobile1.gif) center center top fixed no-repeat;
+    background: url(images/yellowtail/WINE_mobile1.gif); 
     height: 100vh;
 }
     
