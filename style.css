@@ -588,16 +588,15 @@ nav {
 
 @media screen and (max-width: 700px)    {
 
-
 #clientYT  {
     background: url(images/yellowtail/WINE_mobile1.gif) center top fixed no-repeat;
     height: 1920px;
     width: 1080px;
-    background-size: contain;
+    background-size: cover;
 }
     
 #clientYT h1    {
-    font-size: 30px;
+    font-size: 50px;
 }
     
 #clientAMLACTIN  {
@@ -608,8 +607,7 @@ nav {
 }
     
 #clientAMLACTIN h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
 
 #clientRED2  {
@@ -620,8 +618,7 @@ nav {
 }
     
 #clientRED2 h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
     
 #clientSNPCNY  {
@@ -632,8 +629,7 @@ nav {
 }
     
 #clientSNPCNY h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
 
 #clientJC  {
@@ -644,8 +640,7 @@ nav {
 }
     
 #clientJC h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
 	
 #misc01 {
