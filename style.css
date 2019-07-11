@@ -637,6 +637,10 @@ nav {
     font-size: 30px;
     margin-bottom: 50%;
 }
+	
+#misc01 {
+    display: none;
+    }
     
 }
 
