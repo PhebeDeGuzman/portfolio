@@ -583,6 +583,42 @@ nav {
     #sub    {
     width: 95%;
     }
+	
+#clientYT  {
+    background-size: cover;
+    height: 90vh;
+    width: auto;
+    clear: both;
+    overflow: hidden;
+}
+    
+#clientAMLACTIN  {
+    background-size: cover;
+    height: 90vh;
+    clear: both;
+    overflow: hidden;
+}
+    
+#clientRED2  {
+    background-size: cover;
+    height: 90vh;
+    clear: both;
+    overflow: hidden;
+}
+    
+#clientSNPCNY  {
+    background-size: cover;
+    height: 90vh;
+    clear: both;
+    overflow: hidden;
+}
+    
+#clientJC   {
+    background-size: cover;
+    height: 90vh;
+    clear: both;
+    overflow: hidden;
+}
 }
 
 @media screen and (max-width: 500px)    {
