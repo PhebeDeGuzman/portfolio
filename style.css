@@ -590,7 +590,7 @@ nav {
 
 #clientYT  {
     background: url(images/yellowtail/WINE_mobile1.gif) center top fixed no-repeat;
-    height: 600px;
+    height: 100vh;
     width: auto;
     background-size: cover;
 }
@@ -601,7 +601,7 @@ nav {
     
 #clientAMLACTIN  {
     background: url(images/amlactin/heather_mobile1.gif) center top fixed no-repeat;
-    height: 600px;
+    height: 100vh;
     width: auto;
     background-size: cover;
 }
@@ -612,7 +612,7 @@ nav {
 
 #clientRED2  {
     background: url(images/redemption/redemptionadam_mobile1.jpg) center top fixed no-repeat;
-    height: 600px;
+    height: 100vh;
     width: auto;
     background-size: cover;
 }
@@ -623,7 +623,7 @@ nav {
     
 #clientSNPCNY  {
     background: url(images/fentanyl/MASKGUY_mobile1.gif) center top fixed no-repeat;
-    height: 600px;
+    height: 100vh;
     width: auto;
     background-size: cover;
 }
@@ -634,7 +634,7 @@ nav {
 
 #clientJC  {
     background: url(images/JC/horizontalstew_mobile1.jpg) center top fixed no-repeat;
-    height: 600px;
+    height: 100vh;
     width: auto;
     background-size: cover;
 }
