@@ -589,7 +589,7 @@ nav {
 @media screen and (max-width: 700px)    {
 
 #clientYT  {
-    background: url(images/yellowtail/WINE_mobile.gif) center top fixed no-repeat;
+    background: url(images/yellowtail/WINE_mobile.gif) center top fixed no-repeat cover;
 }
     
 #clientYT h1    {
