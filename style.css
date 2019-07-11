@@ -560,11 +560,6 @@ nav {
 
 
 
-
-
-
-
-
 @media screen and (max-width: 800px)    {
     div.center  {
         width: 80%;
@@ -622,8 +617,8 @@ nav {
     }
     
     header  {
-        width: 100vw;
-        height: auto;
+        height: 100vh;
+        width: auto;
     }
     
     #avalanche2 h4  {
