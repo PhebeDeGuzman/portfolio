@@ -456,22 +456,23 @@ h2  {
     }
     
  #clientYT  {
-    background: url(images/yellowtail/WINE_mobile1.gif); 
+    background: url(images/yellowtail/WINE_mobile1.gif) fixed; 
     height: 100vh;
+    background-size: cover;
 }
     
 #clientAMLACTIN  {
-    background: url(images/amlactin/heather_mobile1.gif) center center top fixed no-repeat;
+    background: url(images/amlactin/heather_mobile1.gif) fixed;
     height: 100vh;
 }
 
 #clientRED2  {
-    background: url(images/redemption/redemptionadam_mobile1.jpg) center center top fixed no-repeat;
+    background: url(images/redemption/redemptionadam_mobile1.jpg) fixed;
     height: 100vh;
 }
 
 #clientSNPCNY  {
-    background: url(images/fentanyl/MASKGUY_mobile1.gif) center center top fixed no-repeat;
+    background: url(images/fentanyl/MASKGUY_mobile1.gif) fixed;
     height: 100vh;
 }
 
