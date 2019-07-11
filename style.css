@@ -588,19 +588,23 @@ nav {
 
 @media screen and (max-width: 700px)    {
 
+
 #clientYT  {
-    width: 100vw;
-    height: 50%;
+    background: url(images/yellowtail/WINE_mobile.gif) center top fixed no-repeat;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
 }
     
 #clientYT h1    {
     font-size: 30px;
-    margin-bottom: 50%;
 }
     
 #clientAMLACTIN  {
-    width: 100vw;
-    height: 50%;
+    background: url(images/amlactin/heather_mobile.gif) center top fixed no-repeat;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
 }
     
 #clientAMLACTIN h1    {
@@ -609,8 +613,10 @@ nav {
 }
 
 #clientRED2  {
-    width: 100vw;
-    height: 50%;
+    background: url(images/redemption/redemptionadam_mobile.jpg) center top fixed no-repeat;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
 }
     
 #clientRED2 h1    {
@@ -619,8 +625,10 @@ nav {
 }
     
 #clientSNPCNY  {
-    width: 100vw;
-    height: 50%;
+    background: url(images/fentanyl/MASKGUY_mobile.gif) center top fixed no-repeat;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
 }
     
 #clientSNPCNY h1    {
@@ -629,8 +637,10 @@ nav {
 }
 
 #clientJC  {
-    width: 100vw;
-    height: 50%;
+    background: url(images/JC/horizontalstew_mobile.jpg) center top fixed no-repeat;
+    height: 100vh;
+    width: auto;
+    background-size: cover;
 }
     
 #clientJC h1    {
