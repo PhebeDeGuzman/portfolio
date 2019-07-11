@@ -476,7 +476,7 @@ h2  {
 }
 
 #clientJC  {
-    background: url(images/JC/horizontalstew_mobile1.jpg) center center top fixed no-repeat;
+    background: url(images/JC/horizontalstew_mobile1.jpg) fixed;
     height: 100vh;
 }
     
