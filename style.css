@@ -588,13 +588,14 @@ nav {
 
 @media screen and (max-width: 700px)    {
 #clientYT  {
-    background: url(images/yellowtail/WINE_mobile.gif) center top fixed no-repeat;
-    background-size: cover;
-    height: 70vh;
-    width: auto;
-    clear: both;
-    overflow: hidden;
+    width: 100vw;
+    height: 50%;
 }
+    
+#clientYT h1    {
+    font-size: 30px;
+    margin-bottom: 50%;
+    }
     
 #clientAMLACTIN  {
     background: url(images/amlactin/heather_mobile.gif) center top fixed no-repeat;
