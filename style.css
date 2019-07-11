@@ -589,58 +589,57 @@ nav {
 @media screen and (max-width: 700px)    {
 
 #clientYT  {
-    background: url(images/yellowtail/WINE_mobile1.gif) center top fixed no-repeat;
-    height: 100vh;
-    width: auto;
+    background: url(images/yellowtail/WINE_mobile.gif) center top fixed no-repeat;
+    background-size: 100% auto;
     background-size: cover;
 }
     
 #clientYT h1    {
-    font-size: 50px;
+    font-size: 30px;
 }
     
 #clientAMLACTIN  {
-    background: url(images/amlactin/heather_mobile1.gif) center top fixed no-repeat;
-    height: 100vh;
-    width: auto;
+    background: url(images/amlactin/heather_mobile.gif) center top fixed no-repeat;
+    background-size: 100% auto;
     background-size: cover;
 }
     
 #clientAMLACTIN h1    {
-    font-size: 50px;
+    font-size: 30px;
+    margin-bottom: 50%;
 }
 
 #clientRED2  {
-    background: url(images/redemption/redemptionadam_mobile1.jpg) center top fixed no-repeat;
-    height: 100vh;
-    width: auto;
+    background: url(images/redemption/redemptionadam_mobile.jpg) center top fixed no-repeat;
+    background-size: 100% auto;
     background-size: cover;
 }
     
 #clientRED2 h1    {
-    font-size: 50px;
+    font-size: 30px;
+    margin-bottom: 50%;
 }
     
 #clientSNPCNY  {
-    background: url(images/fentanyl/MASKGUY_mobile1.gif) center top fixed no-repeat;
-    height: 100vh;
-    width: auto;
+    background: url(images/fentanyl/MASKGUY_mobile.gif) center top fixed no-repeat;
+    background-size: 100% auto;
     background-size: cover;
 }
     
 #clientSNPCNY h1    {
-    font-size: 50px;
+    font-size: 30px;
+    margin-bottom: 50%;
 }
 
 #clientJC  {
     background: url(images/JC/horizontalstew_mobile1.jpg) center top fixed no-repeat;
-    height: 100vh;
-    width: auto;
+    background-size: 100% auto;
     background-size: cover;
 }
     
 #clientJC h1    {
-    font-size: 50px;
+    font-size: 30px;
+    margin-bottom: 50%;
 }
 	
 	
