@@ -590,61 +590,57 @@ nav {
 
 #clientYT  {
     background: url(images/yellowtail/WINE_mobile1.gif) center top fixed no-repeat;
-    width: auto;
-    height: 100vh;
+    height: 444px;
+    width: 250px;
     background-size: cover;
 }
     
 #clientYT h1    {
-    font-size: 30px;
+    font-size: 50px;
 }
     
 #clientAMLACTIN  {
     background: url(images/amlactin/heather_mobile1.gif) center top fixed no-repeat;
-    width: auto;
-    height: 100vh;
+    height: 444px;
+    width: 250px;
     background-size: cover;
 }
     
 #clientAMLACTIN h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
 
 #clientRED2  {
     background: url(images/redemption/redemptionadam_mobile1.jpg) center top fixed no-repeat;
-    width: auto;
-    height: 100vh;
+    height: 444px;
+    width: 250px;
     background-size: cover;
 }
     
 #clientRED2 h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
     
 #clientSNPCNY  {
     background: url(images/fentanyl/MASKGUY_mobile1.gif) center top fixed no-repeat;
-    width: auto;
-    height: 100vh;
+    height: 444px;
+    width: 250px;
     background-size: cover;
 }
     
 #clientSNPCNY h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
 
 #clientJC  {
     background: url(images/JC/horizontalstew_mobile1.jpg) center top fixed no-repeat;
-    width: auto;
-    height: 100vh;
+    height: 444px;
+    width: 250px;
     background-size: cover;
 }
     
 #clientJC h1    {
-    font-size: 30px;
-    margin-bottom: 50%;
+    font-size: 50px;
 }
 	
 	
