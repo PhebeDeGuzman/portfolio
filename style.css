@@ -447,46 +447,46 @@ nav {
     font-size: 30px;
   }
 
-	h2 {
+  h2 {
     font-size: 13px;
     padding: 3px;
-	}
+  }
 
-	#sub {
+  #sub {
     width: 95%;
   }
 
   #clientYT  {
     background: url(images/yellowtail/WINE_mobile1.gif) no-repeat;
-		height: 100vh;
+    height: 100vh;
     background-size: cover;
-	}
+  }
 
-	#clientAMLACTIN  {
+  #clientAMLACTIN  {
     background: url(images/amlactin/heather_mobile1.gif) no-repeat;
-		height: 100vh;
+    height: 100vh;
     background-size: cover;
-	}
+  }
 
-	#clientRED2  {
+  #clientRED2  {
     background: url(images/redemption/redemptionadam_mobile1.jpg) no-repeat;
-		height: 100vh;
+    height: 100vh;
     background-size: cover;
-	}
+  }
 
-	#clientSNPCNY  {
+  #clientSNPCNY  {
     background: url(images/fentanyl/MASKGUY_mobile1.gif) no-repeat;
-		height: 100vh;
+    height: 100vh;
     background-size: cover;
-	}
+  }
 
-	#clientJC  {
+  #clientJC  {
     background: url(images/JC/horizontalstew_mobile1.jpg) no-repeat;
-		height: 100vh;
+    height: 100vh;
     background-size: cover;
-	}
+  }
 
-	#misc01 {
+  #misc01 {
     display: none;
   }
 }
@@ -530,6 +530,6 @@ nav {
   }
 
   #sub {
-  	width: 95%;
+    width: 95%;
   }
 }
