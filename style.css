@@ -1,4 +1,4 @@
-/* http://meyerweb.com/eric/tools/css/reset/
+/* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
 */
@@ -12,8 +12,8 @@ b, u, i, center,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed,
-figure, figcaption, footer, header, hgroup,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -24,7 +24,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 /* HTML5 display-role reset for older browsers */
-article, aside, details, figcaption, figure,
+article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
@@ -50,49 +50,49 @@ table {
 /*classes for text alignment*/
 
 .name {
-    -webkit-animation:colorchange 20s infinite alternate;
+    -webkit-animation:colorchange 20s infinite alternate;   
 }
 
   @-webkit-keyframes colorchange {
       0% {
         color: darkseagreen;
       }
-
+      
       10% {
         color: #8e44ad;
       }
-
+      
       20% {
         color: #1abc9c;
       }
-
+      
       30% {
         color: #d35400;
       }
-
+      
       40% {
         color: darkgoldenrod;
       }
-
+      
       50% {
         color: #34495e;
       }
-
+      
       60% {
         color: deeppink;
       }
-
+      
       70% {
         color: #2980b9;
       }
       80% {
         color: #f1c40f;
       }
-
+      
       90% {
         color: #2980b9;
       }
-
+      
       100% {}
         color: pink;
       }
@@ -255,6 +255,14 @@ nav {
     background: url(images/poodle.gif) no-repeat;
     background-size: cover;
     height: 100vh;
+}
+
+#clientWM  {
+    background: url(images/WomensMarch/WomensMarch_1.gif) center top fixed no-repeat;
+    background-size: cover;
+    height: 80vh;
+    clear: both;
+    overflow: hidden;
 }
 
 #clientYT  {
@@ -445,99 +453,115 @@ nav {
     -ms-flex: 100%;
     flex: 100%;
     max-width: 100%;
-  }
+  }    
 }
 
 
 @media screen and (max-width: 767px)    {
-
-  h1 {
-    font-size: 30px;
-  }
-
-  h2 {
-    font-size: 13px;
-    padding: 3px;
-  }
-
-  #sub {
+    h1  {
+        font-size: 30px;
+    }
+    
+h2  {
+        font-size: 13px;
+        padding: 3px;
+    }   
+    
+#sub    {
     width: 95%;
-  }
-
-  #clientYT  {
-    background: url(images/yellowtail/WINE_mobile1.gif) no-repeat;
+    }
+    
+ #clientYT  {
+    background: url(images/yellowtail/WINE_mobile1.gif) fixed no-repeat; 
     height: 100vh;
     background-size: cover;
-  }
-
-  #clientAMLACTIN  {
-    background: url(images/amlactin/heather_mobile1.gif) no-repeat;
+}
+    
+#clientAMLACTIN  {
+    background: url(images/amlactin/heather_mobile1.gif) fixed no-repeat;
     height: 100vh;
     background-size: cover;
-  }
+}
 
-  #clientRED2  {
-    background: url(images/redemption/redemptionadam_mobile1.jpg) no-repeat;
+#clientRED2  {
+    background: url(images/redemption/redemptionadam_mobile1.jpg) fixed no-repeat;
     height: 100vh;
     background-size: cover;
-  }
+}
 
-  #clientSNPCNY  {
-    background: url(images/fentanyl/MASKGUY_mobile1.gif) no-repeat;
+#clientSNPCNY  {
+    background: url(images/fentanyl/MASKGUY_mobile1.gif) fixed no-repeat;
     height: 100vh;
     background-size: cover;
-  }
+}
 
-  #clientJC  {
-    background: url(images/JC/horizontalstew_mobile1.jpg) no-repeat;
+#clientJC  {
+    background: url(images/JC/horizontalstew_mobile1.jpg) fixed no-repeat;
     height: 100vh;
     background-size: cover;
-  }
-
-  #misc01 {
+}
+    
+#clientCC  {
+background: url(images/columbiacare/CC_mobile1.jpg) fixed no-repeat;
+height: 100vh;
+background-size: cover;
+}
+    
+#clientWM  {
+background: url(images/WomensMarch/WomensMarch_mobile1.gif) fixed no-repeat;
+height: 100vh;
+background-size: cover;
+}
+    
+#misc01 {
     display: none;
-  }
+    }
 }
 
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 500px)    {
+    div.center  {
+        width: 95%;    
+    } 
+    
+    div.left    {
+        float: none;
+        width: 100%;
+        padding: 2%;
+        margin: auto;
 
-  div.center  {
+    }
+    div.right   {
+        float: none;
+        margin: auto;
+        width: 100%;
+        padding: 2%;
+    }
+
+    div.caption {
+        width: 90%;
+        top: 40vh;
+        clear: both;
+        overflow: hidden;
+    }
+    div.captionFull {
+        width: 90%;
+        top: 35vh;
+        margin: auto;
+    }
+    
+    header  {
+        height: 100vh;
+        width: auto;
+    }
+    
+    #sub    {
     width: 95%;
-  }
+    }
 
-  div.left    {
-    float: none;
-    width: 100%;
-    padding: 2%;
-    margin: auto;
-  }
-
-  div.right   {
-    float: none;
-    margin: auto;
-    width: 100%;
-    padding: 2%;
-  }
-
-  div.caption {
-    width: 90%;
-    top: 40vh;
-    clear: both;
-    overflow: hidden;
-  }
-
-  div.captionFull {
-    width: 90%;
-    top: 35vh;
-    margin: auto;
-  }
-
-  header {
-    height: 100vh;
-    width: auto;
-  }
-
-  #sub {
-    width: 95%;
-  }
 }
+
+
+
+
+
+
