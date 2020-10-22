@@ -459,102 +459,15 @@ nav {
 
 @media screen and (max-width: 767px)    {
 h1  {
-        font-size: 30px;
+    font-size: 30px;
     }
     
 h2  {
-        font-size: 20px;
-        padding: 5px;
+    font-size: 20px;
+    padding: 5px;
     }   
     
 #sub    {
-    width: 90%;
-    }
-    
- #clientYT  {
-    background: url(images/yellowtail/WINE_mobile1.gif) fixed no-repeat; 
-    height: 100vh;
-    background-size: cover;
-}
-    
-#clientAMLACTIN  {
-    background: url(images/amlactin/heather_mobile1.gif) fixed no-repeat;
-    height: 100vh;
-    background-size: cover;
-}
-
-#clientRED2  {
-    background: url(images/redemption/redemptionadam_mobile1.jpg) fixed no-repeat;
-    height: 100vh;
-    background-size: cover;
-}
-
-#clientSNPCNY  {
-    background: url(images/fentanyl/MASKGUY_mobile1.gif) fixed no-repeat;
-    height: 100vh;
-    background-size: cover;
-}
-
-#clientJC  {
-    background: url(images/JC/horizontalstew_mobile1.jpg) fixed no-repeat;
-    height: 100vh;
-    background-size: cover;
-}
-    
-#clientCC  {
-background: url(images/columbiacare/CC_mobile1.jpg) fixed no-repeat;
-height: 100vh;
-background-size: cover;
-}
-    
-#clientWM  {
-background: url(images/WomensMarch/WomensMarch_mobile1.gif) fixed no-repeat;
-height: 100vh;
-background-size: cover;
-}
-    
-#misc01 {
-    display: none;
-    }
-}
-
-@media screen and (max-width: 500px)    {
-    div.center  {
-        width: 95%;    
-    } 
-    
-    div.left    {
-        float: none;
-        width: 100%;
-        padding: 2%;
-        margin: auto;
-
-    }
-    div.right   {
-        float: none;
-        margin: auto;
-        width: 100%;
-        padding: 2%;
-    }
-
-    div.caption {
-        width: 90%;
-        top: 40vh;
-        clear: both;
-        overflow: hidden;
-    }
-    div.captionFull {
-        width: 90%;
-        top: 35vh;
-        margin: auto;
-    }
-    
-    header  {
-        height: 100vh;
-        width: auto;
-    }
-    
-    #sub    {
     width: 90%;
     }
     
@@ -597,6 +510,95 @@ background-size: cover;
 #clientWM  {
     background: url(images/WomensMarch/WomensMarch_mobile1.gif) fixed no-repeat;
     height: 100vh;
+    background-size: cover;
+}
+    
+#misc01 {
+    display: none;
+    }
+}
+
+@media screen and (max-width: 500px)    {
+    div.center  {
+        width: 95%;    
+    } 
+    
+div.left    {
+        float: none;
+        width: 100%;
+        padding: 2%;
+        margin: auto;
+
+    }
+
+div.right   {
+        float: none;
+        margin: auto;
+        width: 100%;
+        padding: 2%;
+    }
+
+div.caption {
+        width: 90%;
+        top: 40vh;
+        clear: both;
+        overflow: hidden;
+    }
+
+div.captionFull {
+        width: 90%;
+        top: 35vh;
+        margin: auto;
+    }
+    
+header  {
+        height: 100vh;
+        width: auto;
+    }
+    
+#sub    {
+    width: 90%;
+    }
+    
+ #clientYT  {
+    background: url(images/yellowtail/WINE_mobile1.gif) fixed no-repeat; 
+    height: 100vw;
+    background-size: cover;
+}
+    
+#clientAMLACTIN  {
+    background: url(images/amlactin/heather_mobile1.gif) fixed no-repeat;
+    height: 100vw;
+    background-size: cover;
+}
+
+#clientRED2  {
+    background: url(images/redemption/redemptionadam_mobile1.jpg) fixed no-repeat;
+    height: 100vw;
+    background-size: cover;
+}
+
+#clientSNPCNY  {
+    background: url(images/fentanyl/MASKGUY_mobile1.gif) fixed no-repeat;
+    height: 100vw;
+    background-size: cover;
+}
+
+#clientJC  {
+    background: url(images/JC/horizontalstew_mobile1.jpg) fixed no-repeat;
+    height: 100vw;
+    background-size: cover;
+}
+    
+#clientCC  {
+    background: url(images/columbiacare/CC_mobile1.jpg) fixed no-repeat;
+    height: 100vw;
+    background-size: cover;
+}
+    
+#clientWM  {
+    background: url(images/WomensMarch/WomensMarch_mobile1.gif) fixed no-repeat;
+    height: 100vw;
     background-size: cover;
 }
     
