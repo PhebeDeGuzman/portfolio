@@ -560,73 +560,79 @@ header  {
     width: 90%;
     }
     
-#clientYT  {
-    background: url(images/yellowtail/WINE_mobile1.gif) fixed no-repeat; 
+ #clientYT  {
+    background: url(images/yellowtail/WINE_mobile1.gif) no-repeat; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
-
+    height: 80vh;
 }
     
 #clientAMLACTIN  {
-    background: url(images/amlactin/heather_mobile1.gif) fixed no-repeat;
+    background: url(images/amlactin/heather_mobile1.gif) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
+    height: 80vh;
 
 }
 
 #clientRED2  {
-    background: url(images/redemption/redemptionadam_mobile1.jpg) fixed no-repeat;
+    background: url(images/redemption/redemptionadam_mobile1.jpg) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
+    height: 80vh;
 
 }
 
 #clientSNPCNY  {
-    background: url(images/fentanyl/MASKGUY_mobile1.gif) fixed no-repeat;
+    background: url(images/fentanyl/MASKGUY_mobile1.gif) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
+    height: 80vh;
 
 }
 
 #clientJC  {
-    background: url(images/JC/horizontalstew_mobile1.jpg) fixed no-repeat;
+    background: url(images/JC/horizontalstew_mobile1.jpg) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
+    height: 80vh;
 
 }
     
 #clientCC  {
-    background: url(images/columbiacare/CC_mobile1.jpg) fixed no-repeat;
+    background: url(images/columbiacare/CC_mobile1.jpg) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
+    height: 80vh;
 
 }
     
 #clientWM  {
-    background: url(images/WomensMarch/WomensMarch_mobile2.jpg) fixed no-repeat;
+    background: url(images/WomensMarch/WomensMarch_mobile1.gif) no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-position: center center;
+    height: 80vh;
     }
     
 #misc01 {
