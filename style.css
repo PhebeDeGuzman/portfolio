@@ -213,6 +213,7 @@ p   {
     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;line-height:1;
     font-weight: 300;
     font-size: 20px;
+    line-height: 1.25;
 }
 
 a   {
@@ -256,6 +257,15 @@ nav {
     background-size: cover;
     height: 100vh;
 }
+
+#clientBC  {
+    background: url(images/borncurious/JR_02.jpg) center top fixed no-repeat;
+    background-size: cover;
+    height: 80vh;
+    clear: both;
+    overflow: hidden;
+}
+
 
 #clientWM  {
     background: url(images/WomensMarch/WomensMarch_1.gif) center top fixed no-repeat;
@@ -471,7 +481,13 @@ h2  {
     width: 90%;
     }
     
- #clientYT  {
+ #clientBC  {
+    background: url(images/borncurious/JR_01.jpg) fixed no-repeat; 
+    height: 100vh;
+    background-size: cover;
+}
+    
+#clientYT  {
     background: url(images/yellowtail/WINE_mobile1.gif) fixed no-repeat; 
     height: 100vh;
     background-size: cover;
@@ -640,7 +656,6 @@ header  {
     }
 
 }
-
 
 
 
