@@ -482,7 +482,7 @@ h2  {
     }
     
  #clientBC  {
-    background: url(images/borncurious/JR_01.jpg) fixed no-repeat; 
+    background: url(images/borncurious/JR_02_mobile1.jpg) fixed no-repeat; 
     height: 100vh;
     background-size: cover;
 }
@@ -575,6 +575,16 @@ header  {
 #sub    {
     width: 90%;
     }
+
+ #clientBC  {
+    background: url(images/borncurious/JR_02_mobile1.jpg) no-repeat; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-position: center center;
+    height: 80vh;
+}    
     
  #clientYT  {
     background: url(images/yellowtail/WINE_mobile1.gif) no-repeat; 
